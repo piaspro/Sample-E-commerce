@@ -1,0 +1,51 @@
+.container{
+    margin-bottom: 50px;
+}
+.carousel-item{
+    padding: 10px 40px;
+    background-image: linear-gradient( 90deg, pink, tomato);
+    border-radius: 10px;
+}
+.btn-buy{
+    border: none;
+    border-radius: 5px;
+    background-image: linear-gradient( rgb(128, 0, 111), rgb(247, 16, 208));
+    color: wheat;
+    padding: 10px 20px;
+}
+.price-tag{
+    color:rgb(128, 0, 111) ;
+}
+.bag-bg{
+    background-image: linear-gradient(90deg, green, rgb(115, 250, 115));
+    border-radius: 10px;
+    padding: 10px 0px;
+}
+.shoes-bg{
+    background-image: linear-gradient(90deg, rgb(248, 101, 101), red);
+    border-radius: 10px;
+    padding: 10px 0px;
+}
+.watch-bg{
+    background-image: linear-gradient( rgb(62, 74, 252), blue);
+    border-radius: 10px;
+    padding: 10px 0px;
+}
+.catagories img{
+    width: 100px;
+}
+.catagories h1{
+    color: wheat;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+}
+.foot{
+    background-image: linear-gradient( 90deg, rgb(6, 167, 81), rgb(1, 154, 192));
+    border-radius: 10px;
+    height: 250px;
+}
+footer{
+    text-align: center;
+}
